@@ -8,7 +8,7 @@ public class AdminApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AdminApplication.class, args);
-        System.out.println("管理模块启动完成");
+        System.out.println("管理模块启动完成>>>");
     }
 
 }
