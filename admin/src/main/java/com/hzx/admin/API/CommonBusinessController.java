@@ -12,7 +12,7 @@ public class CommonBusinessController {
 
     @PostMapping("/test")
     public void test(){
-        log.info("测试接口进入》》》》》");
+        log.info("测试接口进入》》》");
     }
 
 }
