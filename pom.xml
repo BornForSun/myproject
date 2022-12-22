@@ -16,8 +16,7 @@
     <description>Demo project for Spring Boot</description>
 
     <modules>
-        <module>admin</module>
-        <module>dubbo</module>
+        <module>dubbo-comsumer</module>
     </modules>
 
 
